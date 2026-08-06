@@ -7,5 +7,4 @@ T0TC=0;
 T0TCR=1;
 while(T0TC<ms);
 T0TCR=0;
-
 }
